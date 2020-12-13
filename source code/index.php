@@ -19,7 +19,7 @@ session_start();
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="main.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="icon" href="./images_logo/background/logo_tdtu.png" type="image/icon type">
+    <link rel="icon" href="images_logo/background/logo_tdtu.png" type="image/icon type">
     <title>TDTU's Classroom</title>
     <link rel="icon" href="images_logo/background/logo_tdtu.png" >
     <style>
@@ -35,7 +35,7 @@ session_start();
     <div class="navbar navbar-light bg-light border-bottom w-100 normal-navbar">
         <div class="nav-header">
             <div class="show-sidebar btn border-0" onclick="openNav()"><i class="fal fa-bars fa-3x m-auto"></i></iv></div>
-            <a class="navbar-brand mr-auto" href="./index.php"><div class="brand h4 mt-1">Ton Duc Thang <small>Classroom</small></div></a>
+            <a class="navbar-brand mr-auto" href="index.php"><div class="brand h4 mt-1">Ton Duc Thang <small>Classroom</small></div></a>
         </div>
         <div class="nav-footer">
                 <a class="nav-signin nav-link ml-auto text-primary font-weight-bold" href="sign-in.php">Sign in</a>

@@ -1,6 +1,6 @@
 <?php
 function openDB() {
-    $conn = mysqli_connect("127.0.0.1","root","","database");
+    $conn = mysqli_connect("remotemysql.com","pOqRYb14Gu","lyJJlsnCyX","pOqRYb14Gu");
     return $conn;
 }
 
